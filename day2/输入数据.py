@@ -1,0 +1,5 @@
+a = input("请输入数字：")
+print(type(a))
+a = int(a)
+print(type(a))
+print("输入的数字为：",a)
